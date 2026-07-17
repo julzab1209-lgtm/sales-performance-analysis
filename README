@@ -1,59 +1,134 @@
-# Sales Performance Analysis Dashboard
-The dashboard was originally developed as part of a university project and is presented in Polish. All project documentation and analysis are provided in English.
+# 📊 Sales Performance Analysis
 
 ## Project Overview
 
-This project presents an interactive sales analysis dashboard developed in Microsoft Power BI. The report enables users to analyze sales performance across different countries, products, and time periods through interactive visualizations.
+This project presents an interactive **Sales Performance Dashboard** developed in **Microsoft Power BI** for analyzing sales performance across products, countries, and time periods.
+
+The dashboard enables users to explore sales trends, compare product performance, and analyze regional sales using interactive visualizations and filters.
+
+> **Note:** This dashboard was originally developed as part of a university project and is presented in Polish. All accompanying documentation, project descriptions, and analytical explanations in this repository are written in English.
+
+---
 
 ## Objectives
 
-- Analyze sales performance over time.
-- Compare sales across countries.
-- Identify best-performing products.
-- Explore sales distribution using interactive filters.
-- Support business decision-making through data visualization.
+The main objectives of this project are:
 
-## Technologies
+- Analyze sales performance over time
+- Compare sales across different products
+- Analyze sales by country
+- Visualize geographic sales distribution
+- Enable interactive filtering and drill-down analysis
+- Present business insights using Power BI
 
-- Microsoft Power BI
-- Power Query
-- DAX
-- Microsoft Excel
-
-## Dashboard Features
-
-- Monthly sales trend analysis
-- Sales by product
-- Sales by country
-- Interactive map visualization
-- Country filtering
-- Product comparison
-
-## Repository Structure
-
-| Folder | Description |
-|---------|-------------|
-| [dashboard](dashboard/) | Power BI dashboard (.pbix) |
-| [docs](docs/) | Project documentation |
-| [screenshots](screenshots/) | Dashboard screenshots |
-| [summaries](summaries/) | Lessons learned and skills demonstrated |
+---
 
 ## Dashboard Preview
 
+### Main Dashboard
+
 ![Dashboard Overview](screenshots/dashboard-overview.png)
 
-## Project Workflow
+---
 
-1. Imported and prepared the dataset.
-2. Built the data model.
-3. Created Power BI visualizations.
-4. Designed an interactive dashboard.
-5. Analyzed sales performance.
-6. Documented the project.
+## Dashboard Features
+
+The report includes the following visualizations:
+
+- Sales Trend by Month
+- Net Sales by Product
+- Net Sales by Country
+- Geographic Sales Map
+- Units Sold by Country
+- Country Filter (Slicer)
+- Interactive Cross-filtering
+- Drill-through Navigation
+
+---
+
+## Technologies Used
+
+- Microsoft Power BI Desktop
+- Power Query
+- DAX
+- Data Modeling
+- Interactive Visualizations
+
+---
+
+## Repository Structure
+
+```
+sales-performance-analysis/
+│
+├── README.md
+│
+├── dashboard/
+│   └── Sales_Report.pbix
+│
+├── screenshots/
+│   └── dashboard-overview.png
+│
+├── docs/
+│   ├── dashboard-overview.md
+│   ├── data-model.md
+│   ├── visualizations.md
+│   ├── dax-measures.md
+│   └── business-insights.md
+│
+└── summaries/
+    ├── lessons-learned.md
+    └── skills-demonstrated.md
+```
+
+---
+
+## Documentation
+
+| Document | Description |
+|----------|-------------|
+| dashboard-overview.md | Overview of the Power BI dashboard |
+| data-model.md | Data model and relationships |
+| visualizations.md | Description of charts, maps and interactive filters |
+| dax-measures.md | Calculated measures and DAX expressions |
+| business-insights.md | Key findings and business conclusions |
+
+---
+
+## Key Skills Demonstrated
+
+- Dashboard Design
+- Data Visualization
+- Business Intelligence
+- Data Analysis
+- Interactive Reporting
+- Data Modeling
+- Power Query
+- DAX
+- Drill-through Reports
+- Cross-filtering
+- KPI Reporting
+
+---
 
 ## Future Improvements
 
-- Add KPI cards.
-- Create additional analytical pages.
-- Extend customer segmentation.
-- Improve business insights.
+Possible future enhancements include:
+
+- Additional KPI cards
+- Profitability analysis
+- Customer segmentation
+- Sales forecasting
+- Time intelligence measures
+- Advanced DAX calculations
+
+---
+
+## Author
+
+**Julia Zabawa**
+
+Computer Science graduate specializing in Cybersecurity with a growing interest in Data Analytics, Business Intelligence, and Power BI.
+
+GitHub:
+https://github.com/julzab1209-lgtm
