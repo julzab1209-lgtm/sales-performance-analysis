@@ -3,205 +3,57 @@ The dashboard was originally developed as part of a university project and is pr
 
 ## Project Overview
 
-This project presents an interactive sales performance dashboard developed using Power BI, Power Query, and Microsoft Excel.
-
-The objective of the project was to transform raw sales data into meaningful business insights that support data-driven decision-making. The dashboard enables users to monitor key performance indicators (KPIs), analyze sales trends, identify top-performing products and customers, and evaluate profitability across different market segments.
-
----
-
-## Business Problem
-
-Organizations generate large volumes of sales data every day. Without proper analysis, it is difficult to identify performance trends, understand customer behavior, and evaluate profitability.
-
-This project addresses the following business questions:
-
-- Which regions generate the highest sales revenue?
-- Which product categories are the most profitable?
-- Who are the most valuable customers?
-- How do discounts affect overall profitability?
-- How have sales and profit changed over time?
-- Which market segments contribute the most to business performance?
-
----
+This project presents an interactive sales analysis dashboard developed in Microsoft Power BI. The report enables users to analyze sales performance across different countries, products, and time periods through interactive visualizations.
 
 ## Objectives
 
-The primary objectives of this project were:
-
-- Prepare and clean sales data.
-- Build a structured data model.
-- Create interactive Power BI dashboards.
-- Monitor business KPIs.
-- Analyze sales performance.
-- Identify business opportunities and improvement areas.
-- Present findings in a clear and interactive way.
-
----
-
-## Dataset
-
-The dataset contains sales transactions including information about:
-
-- Orders
-- Customers
-- Products
-- Categories
-- Regions
-- Sales
-- Profit
-- Discounts
-- Shipping Cost
-- Order Dates
-- Customer Segments
-
----
+- Analyze sales performance over time.
+- Compare sales across countries.
+- Identify best-performing products.
+- Explore sales distribution using interactive filters.
+- Support business decision-making through data visualization.
 
 ## Technologies
 
 - Microsoft Power BI
 - Power Query
-- Microsoft Excel
 - DAX
-- Data Modeling
-- Data Visualization
-
----
+- Microsoft Excel
 
 ## Dashboard Features
 
-The dashboard provides interactive analysis of:
-
-- Total Sales
-- Total Profit
-- Profit Margin
-- Average Discount
-- Sales by Region
-- Sales by Product Category
-- Sales by Customer Segment
-- Top Customers
-- Sales Trends Over Time
-- Profitability Analysis
-
----
-
-## Project Workflow
-
-The project was completed according to the following workflow:
-
-1. Imported raw sales data.
-2. Cleaned and transformed data using Power Query.
-3. Built relationships between tables.
-4. Created calculated measures using DAX.
-5. Designed interactive dashboard pages.
-6. Analyzed business performance.
-7. Documented findings and business insights.
-
----
+- Monthly sales trend analysis
+- Sales by product
+- Sales by country
+- Interactive map visualization
+- Country filtering
+- Product comparison
 
 ## Repository Structure
 
-```text
-sales-performance-analysis
-│
-├── README.md
-│
-├── data
-│   ├── raw
-│   └── processed
-│
-├── dashboard
-│   └── Sales_Performance_Dashboard.pbix
-│
-├── docs
-│   ├── business-problem.md
-│   ├── data-preparation.md
-│   ├── dashboard-overview.md
-│   └── business-insights.md
-│
-├── screenshots
-│
-└── summaries
-    ├── lessons-learned.md
-    └── skills-demonstrated.md
-```
+| Folder | Description |
+|---------|-------------|
+| [dashboard](dashboard/) | Power BI dashboard (.pbix) |
+| [docs](docs/) | Project documentation |
+| [screenshots](screenshots/) | Dashboard screenshots |
+| [summaries](summaries/) | Lessons learned and skills demonstrated |
 
----
+## Dashboard Preview
 
-## Documentation
+![Dashboard Overview](screenshots/dashboard-overview.png)
 
-The project documentation describes each stage of the analytical process.
+## Project Workflow
 
-| Document | Description |
-|----------|-------------|
-| **[business-problem.md](docs/business-problem.md)** | Description of the business problem, objectives, and analytical questions. |
-| **[data-preparation.md](docs/data-preparation.md)** | Data cleaning, transformation, and preparation performed using Power Query. |
-| **[dashboard-overview.md](docs/dashboard-overview.md)** | Overview of dashboard pages, visualizations, and implemented KPIs. |
-| **[business-insights.md](docs/business-insights.md)** | Business conclusions and recommendations based on the dashboard analysis. |
-
----
-
-## Project Gallery
-
-The following screenshots present selected dashboard pages and analytical views.
-
-### Dashboard Overview
-
-*Dashboard overview screenshot*
-
----
-
-### Sales by Region
-
-*Regional sales analysis screenshot*
-
----
-
-### Product Performance
-
-*Product category analysis screenshot*
-
----
-
-### Customer Analysis
-
-*Customer performance screenshot*
-
----
-
-### Sales Trends
-
-*Sales trend over time screenshot*
-
----
-
-## Business Value
-
-The dashboard supports business decision-making by providing:
-
-- Better visibility into sales performance.
-- Identification of the most profitable products and regions.
-- Customer performance analysis.
-- Monitoring of key business KPIs.
-- Faster access to business insights through interactive visualizations.
-
----
-
-## Project Summary
-
-This project demonstrates practical skills in business intelligence, data preparation, dashboard development, and business analytics using Microsoft Power BI.
-
-The completed solution transforms transactional sales data into actionable insights that support strategic and operational business decisions.
-
----
+1. Imported and prepared the dataset.
+2. Built the data model.
+3. Created Power BI visualizations.
+4. Designed an interactive dashboard.
+5. Analyzed sales performance.
+6. Documented the project.
 
 ## Future Improvements
 
-Potential future enhancements include:
-
-- Sales forecasting using predictive models.
-- Customer segmentation analysis.
-- RFM analysis.
-- Customer Lifetime Value (CLV) analysis.
-- Profitability forecasting.
-- Advanced DAX calculations.
-- Executive dashboard with drill-through functionality.
+- Add KPI cards.
+- Create additional analytical pages.
+- Extend customer segmentation.
+- Improve business insights.
