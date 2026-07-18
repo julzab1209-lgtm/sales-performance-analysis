@@ -74,7 +74,7 @@ The dashboard enables users to:
 
 | Section | Description |
 |---------|-------------|
-| 📊 [Dashboard](dashboard/Sales_Report.pbix) | Power BI dashboard (.pbix) |
+| 📊 [Dashboard](dashboard/Sales_Performance_Dashboard.pbix)| Power BI dashboard (.pbix) |
 | 📸 [Screenshots](screenshots/README.md) | Dashboard screenshots and visualization overview |
 | 📚 [Documentation](#-documentation) | Project documentation |
 | 📝 [Lessons Learned](summaries/lessons-learned.md) | Key takeaways from the project |
