@@ -1,12 +1,12 @@
 # Dashboard Screenshots
 
-This folder contains screenshots of the main Power BI dashboard and its key visualizations.
+This folder contains screenshots of the Power BI dashboard used in the **Sales Performance Analysis** project.
 
 ---
 
 ## Dashboard Overview
 
-**File:** `dashboard-overview.png`
+📷 **[View Dashboard Overview](dashboard-overview.png)**
 
 Displays the complete dashboard, including sales trends, product performance, regional analysis, and interactive filters.
 
@@ -14,30 +14,30 @@ Displays the complete dashboard, including sales trends, product performance, re
 
 ## Monthly Sales Trend
 
-**File:** `monthly-sales-trend.png`
+📈 **[View Monthly Sales Trend](monthly-sales-trend.png)**
 
-Line chart showing monthly sales performance to identify trends over time.
+Shows monthly sales performance and helps identify trends over time.
 
 ---
 
 ## Sales by Product
 
-**File:** `sales-by-product.png`
+📊 **[View Sales by Product](sales-by-product.png)**
 
-Bar chart comparing sales across different products.
+Compares sales performance across different products.
 
 ---
 
 ## Sales by Country
 
-**File:** `country-analysis.png`
+🌍 **[View Sales by Country](country-analysis.png)**
 
-Pie chart illustrating the distribution of sales by country.
+Illustrates the distribution of sales across countries.
 
 ---
 
 ## Sales Map
 
-**File:** `sales-by-country-map.png`
+🗺️ **[View Sales Map](sales-by-country-map.png)**
 
-Interactive map visualizing sales across different countries.
+Visualizes sales geographically to compare regional performance.
