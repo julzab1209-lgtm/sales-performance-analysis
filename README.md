@@ -97,7 +97,7 @@ The dashboard enables users to:
 
 The complete Power BI dashboard is available here:
 
-**➡️ [Sales_Report.pbix](dashboard/Sales_Report.pbix)**
+➡️ **[Sales_Performance_Dashboard.pbix](dashboard/Sales_Performance_Dashboard.pbix)**
 
 ---
 
