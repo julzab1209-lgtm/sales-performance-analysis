@@ -1,6 +1,6 @@
 # Dashboard Screenshots
 
-This folder contains screenshots of the Power BI dashboard used in the **Sales Performance Analysis** project.
+This folder contains screenshots of the Power BI dashboard presented in this project. Each visualization highlights a different aspect of sales performance and demonstrates the dashboard's interactive reporting capabilities.
 
 ---
 
@@ -8,7 +8,7 @@ This folder contains screenshots of the Power BI dashboard used in the **Sales P
 
 📷 **[View Dashboard Overview](dashboard-overview.png)**
 
-Displays the complete dashboard, including sales trends, product performance, regional analysis, and interactive filters.
+The main dashboard combines all key visualizations into a single interactive report. It provides a comprehensive overview of sales performance across products, countries, and time periods, enabling users to explore data through filters and interactive visuals.
 
 ---
 
@@ -16,7 +16,7 @@ Displays the complete dashboard, including sales trends, product performance, re
 
 📈 **[View Monthly Sales Trend](monthly-sales-trend.png)**
 
-Shows monthly sales performance and helps identify trends over time.
+Displays monthly sales performance, helping identify long-term trends, seasonal fluctuations, and changes in sales activity over time.
 
 ---
 
@@ -24,7 +24,7 @@ Shows monthly sales performance and helps identify trends over time.
 
 📊 **[View Sales by Product](sales-by-product.png)**
 
-Compares sales performance across different products.
+Compares sales performance across different products, making it easier to identify top-performing products and evaluate the overall product portfolio.
 
 ---
 
@@ -32,7 +32,7 @@ Compares sales performance across different products.
 
 🌍 **[View Sales by Country](country-analysis.png)**
 
-Illustrates the distribution of sales across countries.
+Shows how sales are distributed across different countries, allowing users to compare regional performance and identify key markets.
 
 ---
 
@@ -40,4 +40,4 @@ Illustrates the distribution of sales across countries.
 
 🗺️ **[View Sales Map](sales-by-country-map.png)**
 
-Visualizes sales geographically to compare regional performance.
+Provides a geographic view of sales performance, helping visualize market coverage and regional sales distribution.
